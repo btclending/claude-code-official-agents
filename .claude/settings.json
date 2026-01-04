@@ -1,0 +1,23 @@
+{
+  "pluginMarketplaces": [
+    {
+      "type": "directory",
+      "path": "./plugins"
+    }
+  ],
+  "plugins": {
+    "agent-sdk-dev": "enabled",
+    "claude-opus-4-5-migration": "enabled",
+    "code-review": "enabled",
+    "commit-commands": "enabled",
+    "explanatory-output-style": "enabled",
+    "feature-dev": "enabled",
+    "frontend-design": "enabled",
+    "hookify": "enabled",
+    "learning-output-style": "enabled",
+    "plugin-dev": "enabled",
+    "pr-review-toolkit": "enabled",
+    "ralph-wiggum": "enabled",
+    "security-guidance": "enabled"
+  }
+}
